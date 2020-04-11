@@ -61,6 +61,8 @@
   #define THERMISTOR_NAME "Unknown"
 #elif THERMISTOR_ID == 13
   #define THERMISTOR_NAME "Hisens"
+#elif THERMISTOR_ID == 14
+  #define THERMISTOR_NAME "Vector V3"
 #elif THERMISTOR_ID == 20
   #define THERMISTOR_NAME "PT100 UltiMB"
 #elif THERMISTOR_ID == 60
